@@ -8,12 +8,12 @@
 Summary:	CGI::FormBuilder - easily generate and process stateful forms
 Summary(pl):	CGI::FormBuilder - ³atwe generowanie i przetwarzanie formularzy z obs³ug± stanów
 Name:		perl-CGI-FormBuilder
-Version:	2.12
+Version:	2.13
 Release:	1
 License:	GPL or Artistic
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/%{pdir}/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	17d48ce48fcd03ae9ec02f880b06b30e
+# Source0-md5:	f77deeaefc85aea15aa2300dad1df035
 BuildRequires:	perl-CGI
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
