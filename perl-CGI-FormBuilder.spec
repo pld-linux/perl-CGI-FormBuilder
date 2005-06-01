@@ -63,5 +63,6 @@ rm -rf $RPM_BUILD_ROOT
 %{perl_vendorlib}/CGI/FormBuilder/*.pm
 %dir %{perl_vendorlib}/CGI/FormBuilder/Template
 %{perl_vendorlib}/CGI/FormBuilder/Template/*.pm
+%dir %{perl_vendorlib}/CGI/FormBuilder/Source
 %{perl_vendorlib}/CGI/FormBuilder/Source/File.pm
 %{_mandir}/man3/*
