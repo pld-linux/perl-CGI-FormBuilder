@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	FormBuilder
 Summary:	CGI::FormBuilder - easily generate and process stateful forms
-Summary(pl):	CGI::FormBuilder - ³atwe generowanie i przetwarzanie formularzy z obs³ug± stanów
+Summary(pl.UTF-8):   CGI::FormBuilder - Å‚atwe generowanie i przetwarzanie formularzy z obsÅ‚ugÄ… stanÃ³w
 Name:		perl-CGI-FormBuilder
 Version:	3.0302
 Release:	1
@@ -31,12 +31,12 @@ module is designed to be smart in that it figures a lot of stuff out
 for you. As a result, FormBuilder gives you about a 4:1 ratio of the
 code it generates versus what you have to write.
 
-%description -l pl
-Celem modu³u CGI::FormBuilder (FormBuildera) jest dostarczenie ³atwego
+%description -l pl.UTF-8
+Celem moduÅ‚u CGI::FormBuilder (FormBuildera) jest dostarczenie Å‚atwego
 sposobu generowania i przetwarzania aplikacji CGI opartych na
-formularzach. Ten modu³ jest zaprojektowany tak, aby inteligentnie
-wykrywa³ wiêkszo¶æ rzeczy za programistê. W efekcie FormBuilder daje
-wspó³czynnik kodu generowanego do tego, który trzeba napisaæ oko³o
+formularzach. Ten moduÅ‚ jest zaprojektowany tak, aby inteligentnie
+wykrywaÅ‚ wiÄ™kszoÅ›Ä‡ rzeczy za programistÄ™. W efekcie FormBuilder daje
+wspÃ³Å‚czynnik kodu generowanego do tego, ktÃ³ry trzeba napisaÄ‡ okoÅ‚o
 4:1.
 
 %prep
